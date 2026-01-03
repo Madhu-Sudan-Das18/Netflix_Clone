@@ -17,7 +17,7 @@ This project focuses on recreating the visual design and layout of Netflix’s h
 - Google Fonts (optional)
 
 ## 📂 Project Structure
-├── Netflix_index.html
-├── netflix.css
-└── assets/
-└── favicon.ico
+-- Netflix_index.html
+-- netflix.css
+-- assets/ (Contains the images and logos that are used)
+--favicon.ico
